@@ -1,0 +1,10 @@
+/* stylescarusel.css */
+
+/* Estilos para el carrusel principal */
+#carouselExampleCaptions {
+  padding-top: 59px;
+  width: 100%; /* Ancho del carrusel */
+  margin: 0 auto; /* Centrar el carrusel en la página */
+  background-color: #5C8374;
+}
+
